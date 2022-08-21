@@ -78,6 +78,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ```shell
 
 Please install:
+
 npm i graphql
 npm i @apollo/client
 
